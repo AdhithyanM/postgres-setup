@@ -7,7 +7,7 @@ This repository contains a Docker Compose setup for running PostgreSQL and pgAdm
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AdhithyanM/kafka-setup.git
+git clone https://github.com/AdhithyanM/postgres-setup.git
 ```
 
 ### 2. Start the Services
